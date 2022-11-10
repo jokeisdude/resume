@@ -3,8 +3,11 @@
 bio:
 =
 Gudkov Yurii
+
 example@gmail.com
+
 Я студент ГБПОУ ТК 21, учащийся на 2 курсе 
+
 ![](https://сопк.рф/wp-content/uploads/2019/11/Tehnologicheskij-kolledzh-21-Moskva.jpg)
 My pros:
 =
