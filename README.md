@@ -12,7 +12,9 @@ example@gmail.com
 My pros:
 =
 I have coding skills in python programming language, also html & css hyper markup language.
+
 If i am  interested in the project, quickly instructed.
+
 Agree to a salary sufficient for life support if your project is really good
 
 My cons:
