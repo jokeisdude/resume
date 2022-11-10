@@ -18,6 +18,7 @@ Agree to a salary sufficient for life support if your project is really good
 My cons:
 =
 Don't have sufficient practice
+
 Don't can work 24/7
 
 My projects:
