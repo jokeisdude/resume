@@ -1,5 +1,5 @@
 **its repository create for work partners can see my resume.**
-\*#my contacts
+#my contacts
 Gudkov Yurii
 example_mail@gmail.com
-Я студент ГБПОУ ТК 21, учащийся на 2 курсе ![](https://сопк.рф/wp-content/uploads/2019/11/Tehnologicheskij-kolledzh-21-Moskva.jpg)
+Я студент ГБПОУ ТК 21, учащийся на 2 курсе [![](/resume/Tehnologicheskij-kolledzh-21-Moskva.jpeg)](https://сопк.рф/wp-content/uploads/2019/11/Tehnologicheskij-kolledzh-21-Moskva.jpg)
